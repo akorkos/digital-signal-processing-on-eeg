@@ -1,2 +1,4 @@
-# Digital-Signal-Processing-on-EEG
-Digital Signal Processing on EEG data
+# Digital Signal Processing on EEG data
+
+### Πληροφορίες 
+> Μια σύντομη εισαγωγή, παρουσίαση και προγραμματιστική υλοποίηση κάποιων επιμέρους Task σε EEG δεδομένα, που αναπτύχθηκαν κατά την διάρκεια παρακολούθησης του μαθήματος [Ψηφιακή Επεξεργασία Σήματος [NDM-06-01]](https://elearning.auth.gr/course/view.php?id=8136) του τμήματος Πληροφορικής του Α.Π.Θ το εαρινού εξαμήνου 2022/23.
