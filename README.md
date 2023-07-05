@@ -1,4 +1,4 @@
 # Digital Signal Processing on EEG data
 
-### Πληροφορίες 
-> Μια σύντομη εισαγωγή, παρουσίαση και προγραμματιστική υλοποίηση κάποιων επιμέρους Task σε EEG δεδομένα, που αναπτύχθηκαν κατά την διάρκεια παρακολούθησης του μαθήματος [Ψηφιακή Επεξεργασία Σήματος [NDM-06-01]](https://elearning.auth.gr/course/view.php?id=8136) του τμήματος Πληροφορικής του Α.Π.Θ το εαρινού εξαμήνου 2022/23.
+### Description
+> This repository, focuses on on Digital Signal Processing practises such as Wavelets, Non Linear Dynamics and Graph Signal Processing. The material was developed for the [Digital Signal Processing [NDM-06-01]](https://elearning.auth.gr/course/view.php?id=8136) (2022/23) course in the Computer Science Department of Aristotle Univerity of Thessaloniki.
